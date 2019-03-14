@@ -26,8 +26,8 @@ development:
   encoding: unicode
   database: sample_postgres_development
   pool: 5
-  username: chakshusaxena
-  password: password
+  username: deepak
+  password: tiger
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -64,8 +64,8 @@ test:
   encoding: unicode
   database: sample_postgres_development
   pool: 5
-  username: chakshusaxena
-  password: password
+  username: deepak
+  password: tiger
 
 
 # As with config/secrets.yml, you never want to store sensitive information,
